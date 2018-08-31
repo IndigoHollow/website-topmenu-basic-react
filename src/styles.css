@@ -1,0 +1,11 @@
+.topMenu {
+  display: block;
+  table-layout: fixed;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.topMenu div {
+  display: inline-block;
+  padding: 0 20px;
+}
